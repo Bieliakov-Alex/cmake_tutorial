@@ -1,0 +1,2 @@
+#define step_2_VERSION_MAJOR @step_2_VERSION_MAJOR@
+#define step_2_VERSION_MINOR @step_2_VERSION_MINOR@
